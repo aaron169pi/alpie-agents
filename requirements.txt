@@ -1,3 +1,6 @@
+text
 streamlit
 httpx
 python-dotenv
+matplotlib
+plotly
